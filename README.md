@@ -11,4 +11,4 @@
 - PickColor เลือกสีที่จะ replace
 - ตัวเลือก HotReplace ทำการ replace ทุกครั้งที่ค่าความคลาดเคลื่อนเปลี่ยน
 - Save จะบันทึกไฟล์ที่เดียวกับโปรแกรม
-![Example](https://github.com/MrYellowSock/ColorReplacer/blob/master/images/example.png)
+![Example](https://github.com/MrYellowSock/ColorReplacer/blob/master/images/example.PNG)
