@@ -7,7 +7,7 @@ replace color better than Paint!
 ![Compare replace](https://github.com/MrYellowSock/ColorReplacer/blob/master/heart2.png)
               (ซ้าย Paint , ขวา ColorReplacer)
 
-#How to use
+###How to use
 - OpenForFile เลือกรูปภาพ (แนะนำให้ใช้ png)
 - PickColor เลือกสีที่จะ replace
 - ตัวเลือก HotReplace ทำการ replace ทุกครั้งที่ค่าความคลาดเคลื่อนเปลี่ยน
